@@ -72,6 +72,15 @@ nav {
   background-color: rgb(167, 12, 12); 
 }
 
+.icons {
+  position: absolute;
+  top: 200px;
+  right: 50px;
+  display: flex;
+  flex-direction: column;
+  width: 50px;
+}
+
 
 
 
