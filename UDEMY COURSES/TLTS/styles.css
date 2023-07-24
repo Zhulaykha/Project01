@@ -1,0 +1,81 @@
+.background1 {
+    background-image: url(background1.jpg);
+    background-repeat: no-repeat;
+    background-blend-mode: overlay ;
+    background-size: 100%; 
+    width: 1260px; height:800px;;
+    
+}
+nav {
+    background-color: #692828
+  }
+  
+  nav ul {
+    list-style-type: georgian;
+    margin: 0;
+    padding: 0;
+    
+  }
+  
+  nav ul li {
+    display: inline-block;
+  }
+  
+  nav ul li a {
+    display: block;
+    padding: 10px 20px;
+    color: black;
+    text-align: left;
+    text-decoration: none;
+  }
+  
+  nav ul li a:hover {
+    background-color: #994646;
+  }
+  
+  h1,h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    text-align: start;  
+  }
+
+.right-align {
+    text-align: right;
+
+}
+.welcometext {
+    text-align: center;
+    width: 300px;
+    margin: 50px; padding: 30px;
+    
+}
+
+.textalign {
+  text-align: center;
+}
+
+.custom-button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: #fff;
+  background-color: #994646; 
+  border-radius: 5px;
+  border: none;
+}
+
+.custom-button:hover {
+  background-color: indianred; 
+}
+
+.custom-button:active {
+  background-color: rgb(167, 12, 12); 
+}
+
+
+
+
+
+
+
+
